@@ -1,3 +1,3 @@
 # Machine-Learning-of-Lee
 The homework of Machine Learning
-Just because I want to try how the github works
+This file contain 15 homework
